@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 # www.montsuqi.org
 
 ## www.montsuqi.orgについて
