@@ -1,6 +1,6 @@
 # Site settings
 title: montsuqi.org
-email: info@montsuqi.org
+timezone: Asia/Tokyo
 description: MONTSUQIと、その関連パッケージに関する情報を提供するウェブサイトです。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://montsuqi.org" # the base hostname & protocol for your site
